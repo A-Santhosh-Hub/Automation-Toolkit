@@ -352,8 +352,6 @@ License information will be added as the project develops.
 
 **SanStudio**
 
-> **San — Creator of the All Gods**
-
 Built with curiosity, creativity, and a simple idea:
 
 ### **Don't repeat it. Automate it. ⚡**
